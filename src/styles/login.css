@@ -48,15 +48,21 @@
     margin:0;
 }
 
-input{
-    margin:1rem;
-    color:gray;
-    border:none;
-    border-bottom:1px solid lightgray;
+label{
+    display:flex;
+    justify-content:center;
+    flex-direction:row;
+    align-items:center;
     padding-top:0.5rem;
 }
 
-
+input{
+    color:gray;
+    border:none;
+    border-bottom:1px solid lightgray;
+    margin:0.5rem;
+    font-size:1.2em;
+}
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: lightgray;
