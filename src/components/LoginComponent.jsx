@@ -3,7 +3,7 @@ import '../styles/login.css'
 import { Link } from "react-router-dom";
 import konata from '../images/konata_logo.png'
 import { HiOutlineKey, HiOutlineUser } from "react-icons/hi";
-
+import '../styles/responsive.css'
 
 function LoginComponent(){
     return(

@@ -1,6 +1,7 @@
 import React from "react"
 import '../styles/login.css'
 import LoginComponent from "../components/LoginComponent"
+import '../styles/responsive.css'
 
 function Login(){
     return(

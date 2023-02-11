@@ -1,0 +1,32 @@
+/*Responsive*/
+
+@media only screen and (max-width:600px){
+
+    .content{
+        width:90%;
+        margin:2rem;
+        padding:4.5rem 0;
+    }
+
+    .contents{
+        width:90%;
+        margin:2rem;
+    }
+
+    .contents2{
+        width:90%;
+        margin:2rem;
+        padding:4.5rem 0;
+    }
+    
+    .square{
+        width:80%;
+        padding:1rem;
+        top:40px;
+    }
+
+    .space{
+        padding-top:20rem;
+    }
+
+}

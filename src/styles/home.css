@@ -1,6 +1,7 @@
 .content{
     width:30%;
     padding:4.5rem 0;
+    margin:2rem;
     background-color: #0093E9;
     background-image: linear-gradient(32deg, #0093E9 65%, #80D0C7 100%);
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;

@@ -1,6 +1,7 @@
 import React from "react"
 import Konata from '../images/konata_logo.png'
 import '../styles/home.css'
+import '../styles/responsive.css'
 import { Link } from "react-router-dom";
 
 function Home(){
